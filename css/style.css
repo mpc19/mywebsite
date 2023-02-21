@@ -1,0 +1,11 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+a, a:visited {
+    color:black;
+}
+
+#active {
+  color:gray;
+}
